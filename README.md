@@ -17,6 +17,8 @@ Get the latest installer from the **[Releases](../../releases/latest)** page, or
 
 **→ [falcon_bench_Setup.exe](../../releases/latest/download/falcon_bench_Setup.exe)**
 
+📖 For a full step-by-step operating guide, see **[USAGE.md](USAGE.md)**.
+
 ## System requirements
 
 - **Windows 10 or 11, 64-bit.**
