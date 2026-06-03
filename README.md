@@ -9,6 +9,8 @@ optional logging to CSV and the vendor `.dat` format.
 > **Owner:** roboloon UG (haftungsbeschränkt) · **Author:** Jajnabalkya Guhathakurta
 > · **Contact:** jajnabalkya.guhathakurta@roboloon.com
 
+![Falcon Bench — live view (sensor in Work)](docs/tab_live.png)
+
 ---
 
 ## Download
@@ -113,6 +115,16 @@ background thread, so logging never slows the display.)
   it a couple of minutes. Check the **Errors** tab for details.
 - **No logs appear** — make sure a log toggle was enabled before **Start**; click
   **Open logs folder**.
+
+## Screenshots
+
+Live captures with the sensor connected and running (in **Work**):
+
+| Expert — all decoded fields | Waveform — live `log anl` line shape |
+|---|---|
+| ![Expert tab](docs/tab_expert.png) | ![Waveform tab](docs/tab_waveform.png) |
+| **Config — settings blocks** | **Errors — device error log** |
+| ![Config tab](docs/tab_config.png) | ![Errors tab](docs/tab_errors.png) |
 
 ## About this repository
 
